@@ -1,4 +1,4 @@
-# fuelcalculator
+# Fuelcalculator
 
 A new Flutter project.
 
